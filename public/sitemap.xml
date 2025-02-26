@@ -2,10 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://skyly-night.github.io/skycloud3/tags/blog/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://skyly-night.github.io/skycloud3/posts/welcome-to-my-blog/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://skyly-night.github.io/skycloud3/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/posts/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/tags/skycloud/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/tags/skylar/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/tags/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/posts/my-first-blogpost/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/posts/test-blogpost/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud3/categories/</loc>
   </url>
 </urlset>

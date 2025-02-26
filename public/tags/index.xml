@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>https://skyly-night.github.io/skycloud3/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud3/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://skyly-night.github.io/skycloud3/tags/blog/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://skyly-night.github.io/skycloud3/tags/blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>skycloud</title>
+      <link>https://skyly-night.github.io/skycloud3/tags/skycloud/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://skyly-night.github.io/skycloud3/tags/skycloud/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>skylar</title>
+      <link>https://skyly-night.github.io/skycloud3/tags/skylar/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://skyly-night.github.io/skycloud3/tags/skylar/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
